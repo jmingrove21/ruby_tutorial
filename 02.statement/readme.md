@@ -43,3 +43,10 @@
 
 * 한줄 주석은 #
 
+<h5> Container </h5>
+
+* Ruby에서 Container는 Array type
+
+* name = ['a','b','c'] 와 같이 사용한다.
+
+

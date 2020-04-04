@@ -15,7 +15,7 @@
 
 * else문은 기존언어들과 동일
 
-* else if는 ** elsif ** 로 표현한다.
+* else if는 **elsif** 로 표현한다.
 
 <h5> 입력과 출력 </h5>
 

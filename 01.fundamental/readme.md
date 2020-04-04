@@ -33,3 +33,20 @@
 * Math::PI는 Math module의 PI variable을 의미한다.
 
 
+<h5> string </h5>
+
+* 기본적인 string은 "" or '' 을 사용해서 표현한다.
+
+* capitalize(), upcase(), length(), sub('a','b') 등의 function. ex) 'hello world'.length()
+
+* array적 접근은 'Hello'[0]
+
+* 'Hello' * 3 하면 Hello Hello Hello 가 된다. (wow)
+
+* ruby에서는 '와 "의 string 느낌이 다르다.
+
+* ex) 'Hello\nWorld'를 출력하면 문자 그대로 Hello\nworld가 출력된다.
+
+* ex) "Hello\nWorld"를 출력하면 Hello + 개행 + world가 출력된다.
+
+* 참고 : https://stackoverflow.com/questions/6395288/double-vs-single-quotes
